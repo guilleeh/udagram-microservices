@@ -1,4 +1,4 @@
-# Udagram Image Filtering Application
+# Udagram Image Filtering App
 
 ### Screenshot of DockerHub shows the images
 ![](https://i.ibb.co/PDtdb3p/Screen-Shot-2020-11-09-at-1-38-13-PM.png)
